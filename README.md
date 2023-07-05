@@ -29,10 +29,10 @@ misskey-quickpost \
 ## Features
 ### Command options
 ```
---token      string      misskey access token
---url        string      post misskey instance url
---text       string      post text
---visibility string      post text visibility [public/home/followers]
+--token   string      misskey access token
+--url     string      post misskey instance url
+--text    string      post text
+--vis     string      post text visibility [public/home/followers]
 ```
 
 ## LICENSE
